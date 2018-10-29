@@ -5,7 +5,7 @@ Tools for compression, decompression, mirror and overlay PPM(portable pixmap for
 
 ```
 git clone https://github.com/andrei-stratila/PPM-tools.git
-make 
+cd PPM-tools/src && make 
 ```
 ### How it works!
 
